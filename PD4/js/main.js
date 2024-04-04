@@ -1,8 +1,8 @@
-let petName = "Bobikas";
-let petAge = "12";
+let petName = "Genocka";
+let petAge = "333";
 
 console.log(`${petName}, ${petAge}`);
 
-const buildingAddress = "kas cia vapse per adresas";
+const buildingAddress = "aga da";
 
 console.log(`${buildingAddress}`);
